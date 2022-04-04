@@ -13,7 +13,6 @@ import Predmet from "./Predmet";
 
 const App = () => {
 
-    const [user, setUser] = useState("");
 
     return(
         <div>
