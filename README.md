@@ -1,4 +1,7 @@
 # Student-mentoring-system
 Single-page React.js app
 
-This project was made for a college class.
+Admin is allowed to edit the classes and users.
+User has restricted access, depending on its role.
+
+MongoDB is used as a database.
